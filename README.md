@@ -1,0 +1,1 @@
+This is ricardo’s first git project!
